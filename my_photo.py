@@ -50,5 +50,5 @@ def get_cover_image(query='girl', width_crop_ratio=2.35):
     cropped_image.save("wechat_cover.jpg")
     print("封面图片已保存为 wechat_cover.jpg")
 
-# 示例调用
-get_cover_image("girl")
+# # 示例调用
+# get_cover_image("girl")
